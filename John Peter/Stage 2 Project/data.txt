@@ -1,0 +1,1 @@
+[{"Id":"f4ff0d63-743f-4939-becd-4bc6c670275b","Name":"John","Email":"jay@mail","Phone":"094657576","Password":"$2a$11$SdD84aUoPkgEKjDYQhIcau.5pTk6YsJuf.JcXhiYKXScAFq.zqnuy","Balance":0,"Summary":[],"Created":"2023-02-27T13:49:11.0359521+01:00"}]
